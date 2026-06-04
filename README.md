@@ -1,4 +1,4 @@
-# README - FCFS Scheduling Program
+# README - FCFS CPU Scheduling
 
 ## Overview
 
